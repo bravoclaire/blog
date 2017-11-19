@@ -1,14 +1,14 @@
 baseURL = "http://bravoclaire.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Yi's blog"
+title = "Yi Bian's blog"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3                                              # （可选）首页显示的文章条目数量，默认为10
-disqusShortname = "边美丽"      # disqus_shortname
+disqusShortname = "边美丽的博客"      # disqus_shortname
 googleAnalytics = "UA-109835247-1"      # UA-XXXXXXXX-X
 copyright = "Yi"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
@@ -35,6 +35,8 @@ copyright = "Yi"            # default: author.name ↓        # 默认为下面�
   weight = 30
   identifier = "tags"
   url = "/tags/"
+
+
 
 
 [params]

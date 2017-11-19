@@ -9,20 +9,23 @@
   <a href="{{ .Site.RSSLink }}" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
 -->
-
 <div class="copyright">
+  <div class = "friends">
+    Friends &nbsp;
+    <a class="theme-link" href="https://yijiajin.github.io">饼干🍪</a>
+  </div>
   <span class="power-by">
     {{ (printf .Site.Data.even.default.footer.powered `<a class="hexo-link" href="https://gohugo.io">Hugo</a>`) | safeHTML }}
   </span>
   <span class="division">|</span>
   <span class="theme-info">
-    {{ .Site.Data.even.default.footer.theme }} - 
+    {{ .Site.Data.even.default.footer.theme }} -
     <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
   </span>
 
   <span class="copyright-year">
     {{- $current := now.Format "2006" }}
-    &copy; 
+    &copy;
     {{ if ne .Site.Params.since $current }}
       {{ .Site.Params.since }} - 
     {{ end }}
