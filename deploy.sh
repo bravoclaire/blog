@@ -14,6 +14,7 @@ git push origin master
 
 # Build the project. 
 hugo -t even
+hugo -D
 # Go To Public folder
 cd public
 # Add changes to git.

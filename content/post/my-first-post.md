@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2017-11-19T16:21:54-05:00
 draft: true
+tags: ["preview", "中文", "tag-1"]
 ---
 
 其实自己一个更开心
