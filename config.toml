@@ -26,9 +26,9 @@ copyright = "Yi"            # default: author.name ↓        # 默认为下面�
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "Posts"
   weight = 20
-  identifier = "archives"
+  identifier = "posts"
   url = "/post/"
 [[menu.main]]
   name = "Tags"
@@ -43,7 +43,7 @@ copyright = "Yi"            # default: author.name ↓        # 默认为下面�
   since = "2017"            # Site creation time          # 站点建立时间
 
   # site info (option)                                    # 站点信息（可选）
-  logoTitle = "边美丽的博客"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "边美丽"        # default: the title value    # 默认值: 上面设置的title值
   keywords = []
   description = "Yi's blog"
 
