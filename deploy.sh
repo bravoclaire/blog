@@ -13,8 +13,7 @@ git push origin master
 
 
 # Build the project. 
-hugo -t even# if using a theme, replace by `hugo -t <yourtheme>`
-
+hugo -t even
 # Go To Public folder
 cd public
 # Add changes to git.
