@@ -88,19 +88,19 @@ copyright = "Yi"            # default: author.name ↓        # 默认为下面�
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "http://localhost:1313"
-    d-facebook = "http://localhost:1313"
-    e-linkedin = "http://localhost:1313"
-    f-google = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    h-weibo = "http://localhost:1313"
-    i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
-    k-pocket = "http://localhost:1313"
-    l-tumblr = "http://localhost:1313"
-    m-instagram = "http://localhost:1313"
+    a-email = "mailto:bianyi1994@hotmail.com"
+    b-stack-overflow = "http://bravoclaire.github.io/"
+    c-twitter = "http://bravoclaire.github.io/"
+    d-facebook = "http://bravoclaire.github.io/"
+    e-linkedin = "http://bravoclaire.github.io/"
+    f-google = "http://bravoclaire.github.io/"
+    g-github = "https://github.com/bravoclaire"
+    h-weibo = "https://weibo.com/tinygreenpeas"
+    i-zhihu = "https://www.zhihu.com/people/bian-mei-li-94/activities"
+    j-douban = "http://bravoclaire.github.io/"
+    k-pocket = "http://bravoclaire.github.io/"
+    l-tumblr = "http://bravoclaire.github.io/"
+    m-instagram = "https://www.instagram.com/bian_yii/"
 
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
