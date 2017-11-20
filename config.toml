@@ -1,7 +1,7 @@
 baseURL = "http://bravoclaire.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Yi Bian's blog"
+title = "边美丽的博客"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
