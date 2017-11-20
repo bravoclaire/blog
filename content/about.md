@@ -3,22 +3,36 @@ title: "About"
 date: 2017-08-20T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
-weight: 40
+weight: 50
 
 # you can close something for this content if you open it in config.toml.
 comment: false
 mathjax: false
 ---
+## 关于我
 
-Hugo is a static site engine written in Go.
+*2012 CS@SJTU*  
+*2016 MCDS@CMU*
+
+坐标匹兹堡的CS渣程序媛，好吃懒做小胖妹一枚。  
+用这个博客来记录生活，做总结，写影评书评，也可能会有学习笔记吧，也可能会有减肥日志吧！希望自己能成长一点点，距离大神近一点点，并成为一个懂生活的细腻温柔的人🙈。  
+如果想进一步了解我，可以戳下面的图标关注我哦！
+
+## 喜欢
+* 看小说： 喜欢推理小说和言情小说，喜欢金庸张爱玲王小波和莎士比亚，喜欢哈利波特和红楼梦。
+* 写文章： 希望将来闲下来的时候可以写小说，尝试好多次，可以前写的总是不可直视。
+* 吃饭饭： 格外喜欢日料粤菜煲汤，喜欢蔬菜鱼虾海鲜牛羊肉，喜欢冰淇淋，每天要吃3+种水果。
+* 看电影： 最喜欢的导演是宫崎骏、诺兰和姜文，最喜欢的演员是莱昂纳多和约翰尼德普。
+* 听音乐： 很喜欢音乐剧，听歌的喜好总是变，但一直比较怀旧，最近喜欢粤语歌。
+* 去旅行： 去过的地方很少，小时候的一个理想是周游世界，一定要实现呀！
+
+## 不喜欢
+* 榨菜、咸菜、太辣的食物、单纯的糖、鱼腥草、香瓜、盛过米的碗又盛了汤
+* 纪录片、严肃的人、乡村爱情与大多数春晚小品
+
+## 害怕
+过山车、尬聊、电闪雷鸣、指甲挠黑板、无人的街、和大人吃饭讲两句，等等...
 
 
-It makes use of a variety of open source projects including:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
