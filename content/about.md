@@ -11,8 +11,8 @@ mathjax: false
 ---
 ## 关于我
 
-*2012 CS@SJTU*  
-*2016 MCDS@CMU*
+*2012 CS@SJTU* 
+*2016 MCDS@CMU* 
 *2018 Software Engineer@Dropbox*
 
 坐标匹兹堡的CS渣程序媛，好吃懒做小胖妹一枚。  
